@@ -22,8 +22,4 @@ This project focuses on differentiating between real and AI-generated images by 
 - OpenCV  
 - Jupyter Notebook  
 
-## How to Use
-1. Clone the repository.  
-2. Install dependencies listed in `requirements.txt`.  
-3. Run the notebook or scripts to reproduce data preprocessing, training, and evaluation.
 
