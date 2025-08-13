@@ -22,4 +22,6 @@ This project focuses on differentiating between real and AI-generated images by 
 - OpenCV  
 - Jupyter Notebook  
 
+## Project Presentation  
+You can view/download the project presentation here: [Presentation PDF]([https://drive.google.com/your-shared-link](https://drive.google.com/file/d/1s-jCafpj0SztWsTMGRLsjMtT2ENVP_TG/view?usp=sharing))
 
